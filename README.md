@@ -53,15 +53,9 @@
 
 ## 如何交作業
 
-1. 請先 clone 一份這個 project，並且在 `answers/` 資料夾底下相對應的子目錄撰寫作業，例如說 homework 1 就在 `answers/hw1` 裡面寫作業即可。
+1. 請先 fork 一份這個 project 到自己的帳號底下並且 clone 下來，然後在 `answers/` 資料夾底下相對應的子目錄撰寫作業，例如說 homework 1 就在 `answers/hw1` 裡面寫作業即可。
 
-```
-git clone 
-cd answers/hw1
-// 開始寫作業
-```
-
-2. 把這個 clone 下來的 project 弄成 [Github Page](https://pages.github.com/#project-site)，才可以直接看到 `index.html` 等等的靜態檔案。
+2. 把這個 fork 後的 project 弄成 [Github Page](https://pages.github.com/#project-site)，才可以直接看到 `index.html` 等等的靜態檔案。
 
 3. 開一個新的 [Issue](https://github.com/aszx87410/frontend-intermediate-course/issues/new)，並且在右側`Label`的地方選擇`作業`。會有預設的交作業格式出現，照著格式打即可。
 
