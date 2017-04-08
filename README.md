@@ -6,12 +6,32 @@
 
 最初的構想來源可以參考這篇：[[情報] 免費程式教學(前端)](https://www.ptt.cc/bbs/Soft_Job/M.1488469002.A.E34.html)。
 
-這系列的課程需要的基礎為以下四項：
+這系列的課程需要的基礎為以下五項：
 
 1. HTML
 2. CSS
 3. JavaScript
 4. jQuery
+5. Git
+
+如果沒有上述基礎，可以參考下列學習資源：
+
+超強懶人包：[高雄前端社群：前端資源懶人包](https://docs.google.com/document/d/13nK_XY9u5uIleTpSCw88lMupzgCSwXd6j6je44eLhMQ/edit?pli=1)
+
+### HTML, CSS
+1. [html & css is hard(But it doesn’t have to be)](https://internetingishard.com/html-and-css/)
+2. [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+3. [A free HTML & CSS tutorial](http://marksheet.io/)
+
+### JavaScript, jQuery
+1. [我要成為前端工程師！給 JavaScript 新手的建議與學習資源整理](http://blog.miniasp.com/post/2016/02/02/JavaScript-novice-advice-and-learning-resources.aspx)
+1. [從 js 到 jQuery](https://www.facebook.com/groups/javascript.tw/permalink/190266371074709/)
+
+### Git
+1. [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
+2. [30 天精通 Git 版本控管 (02)：在 Windows 平台必裝的三套 Git 工具](http://ithelp.ithome.com.tw/articles/10132333)
+3. [連猴子都能懂的 Git 入門指南](https://backlogtool.com/git-guide/tw/)
+
 
 ## 課程大綱
 
@@ -55,9 +75,11 @@
 
 1. 請先 fork 一份這個 project 到自己的帳號底下並且 clone 下來，然後在 `answers/` 資料夾底下相對應的子目錄撰寫作業，例如說 homework 1 就在 `answers/hw1` 裡面寫作業即可。
 
+2. 寫完作業後記得 commit 然後 push 上去。
+
 2. 把這個 fork 後的 project 弄成 [Github Page](https://pages.github.com/#project-site)，才可以直接看到 `index.html` 等等的靜態檔案。
 
-3. 開一個新的 [Issue](https://github.com/aszx87410/frontend-intermediate-course/issues/new)，並且在右側`Label`的地方選擇`作業`。會有預設的交作業格式出現，照著格式打即可。
+3. 開一個新的 [Issue](https://github.com/aszx87410/frontend-intermediate-course/issues/new)，並且在右側`Label`的地方選擇`作業`。會有預設的交作業格式出現，照著格式打即可。可參考：[交作業範例](https://github.com/aszx87410/frontend-intermediate-course/issues/1)
 
 ## 提問
 
