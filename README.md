@@ -79,15 +79,18 @@
 
 2. 把這個 fork 後的 project 弄成 [Github Page](https://pages.github.com/#project-site)，才可以直接看到 `index.html` 等等的靜態檔案。
 
-3. 開一個新的 [Issue](https://github.com/aszx87410/frontend-intermediate-course/issues/new)，並且在右側`Label`的地方選擇`作業`。會有預設的交作業格式出現，照著格式打即可。可參考：[交作業範例](https://github.com/aszx87410/frontend-intermediate-course/issues/1)
+3. 開一個新的 [Issue](https://github.com/aszx87410/frontend-intermediate-course/issues/new)。會有預設的交作業格式出現，照著格式打即可。可參考：[交作業範例](https://github.com/aszx87410/frontend-intermediate-course/issues/1)。
+
+標題範例： [作業] 作業五
 
 ## 提問
 
-請至 [Issues](https://github.com/aszx87410/frontend-intermediate-course/issues) 區塊直接開一個 Issue，Label 記得選擇`問題`。
+請至 [Issues](https://github.com/aszx87410/frontend-intermediate-course/issues) 區塊直接開一個 Issue。  
+範例：[問題] 請問我該怎麼垂直置中一個區塊
 
 提問前請先參考：[提問的智慧](https://www.gitbook.com/book/ryanhanwu/how-to-ask-questions-the-smart-way/details)。
 
 ## 建議
 
-有任何建議的話，歡迎到 [Issues](https://github.com/aszx87410/frontend-intermediate-course/issues) 開一個 Issue，Label 選擇`建議`即可。
-
+有任何建議的話，歡迎到 [Issues](https://github.com/aszx87410/frontend-intermediate-course/issues) 開一個 Issue，標題開頭請打：[建議]。  
+範例： [建議] 有關於作業三...
