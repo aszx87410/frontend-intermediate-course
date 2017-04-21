@@ -11,6 +11,7 @@
 ## 作業規格
 
 1. 每一個方格在滑鼠移上去時都會有浮出來的效果（`box shadow`）並且變亮
+2. 浮出來跟變涼都必須要有漸變的動畫，意思是你必須用到 `transition`
 
 示意圖：
 ![](http://g.recordit.co/IWfPduGfVL.gif)
