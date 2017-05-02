@@ -62,7 +62,7 @@
 |---|---|---|---|
 | 1. 基本 HTML/CSS 練習：以 Twitch 為例  |4/18  | [hw1](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw1.md) | https://youtu.be/EEhozEEjUT8  |
 | 2. 讓畫面變得更動態：神奇的 CSS transition  | 4/25  | [hw2](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw2.md) | https://youtu.be/eEBjf1aRYFo  |
-| 3. 寫 CSS 必備神器：CSS 預處理器  |  5/2 | [hw3](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw3.md) |   |
+| 3. 寫 CSS 必備神器：CSS 預處理器  |  5/2 | [hw3](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw3.md) | https://youtu.be/H-FRcuqUMy0  |
 | 4. 從假資料到真資料：Ajax 與 API 串接  | 5/9   | [hw4](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw4.md) |   |
 | 5. 讓網頁變得更完整：加上 placeholder 與 infinite scroll  | 5/16  | [hw5](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw5.md) |   |
 | 6. 返璞歸真：vanilla js  | 5/23  | [hw6](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw6.md) |   |
