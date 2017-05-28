@@ -2,7 +2,7 @@
 
 ## 這是什麼
 
-這是一系列循序漸進的課程，從最基本的 HTML, CSS 開始，經由各種實際案例慢慢講到與前端有關的其他知識例如 Ajax, CORS, gulp, webpack, React 等等。
+這是一系列循序漸進的課程，從最基本的 HTML, CSS 開始，經由各種實際案例慢慢講到與前端有關的其他知識例如 Ajax, CORS, gulp, webpack 等等。
 
 最初的構想來源可以參考這篇：[[情報] 免費程式教學(前端)](https://www.ptt.cc/bbs/Soft_Job/M.1488469002.A.E34.html)。
 
@@ -44,7 +44,7 @@
 7. 走向國際：i18n
 8. 當我們包在一起：Webpack
 9. 節省 Request 的極致：一為全，全為一
-10. 不一樣的思考方式：React
+10. 改掉你的壞習慣：ESLint 與 standard
 
 ## 課程說明
 
@@ -69,7 +69,7 @@
 | 7. 走向國際：i18n  |  5/30 | [hw7](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw7.md) |   |
 | 8. 當我們包在一起：Webpack  |  6/6 | [hw8](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw8.md) |   |
 | 9. 節省 Request 的極致：一為全，全為一  | 6/13  | [hw9](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw9.md) |   |
-| 10. 不一樣的思考方式：React  | 6/20  | [hw10](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw10.md) |   |
+| 10. 改掉你的壞習慣：ESLint 與 standard  | 6/20  | [hw10](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw10.md) |   |
 
 ## 如何交作業
 
