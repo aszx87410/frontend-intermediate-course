@@ -24,7 +24,17 @@
 
 ## 作業規範
 
-1. `index.html` 裡面只能引入一個 js 檔案
+1. `index.html` 裡面的 js 檔案只能引入一個（也就是 `bundle.js`）
+
+## 附加說明
+在這個作業中，你會需要用到[Node.js](https://nodejs.org/en/)，所以當你覺得這個作業怎麼比較複雜的時候，不用擔心  
+因為這次是真的比較複雜一點
+
+其實這一個單元需要有一點 Node.js 的基礎，如果你是毫無基礎的初學者，可以試著去找一下入門教學  
+至少要知道怎麼用`require`跟`module.exports`，不能你這次作業絕對卡關卡到不知所措
+
+上面說只能引入一個 js 檔案，代表 jQuery 也必須一起打包進去 webpack，如果你不知道該怎麼弄的話  
+可以參考[npm-jquery](https://www.npmjs.com/package/jquery)下面有提到 Webpack 的部分
 
 ## 學習資源
 
@@ -34,7 +44,7 @@
 3. [WEBPACK入門教學筆記](http://blog.kkbruce.net/2015/10/webpack.html#.WN0gRRKGN8w)
 4. [一小时包教会 —— webpack 入门指南](http://www.cnblogs.com/vajoy/p/4650467.html)
 5. [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f)
-
+6. [官方教學](https://webpack.js.org/guides/get-started/)
 
 ## 自我練習
 
