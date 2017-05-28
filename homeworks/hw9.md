@@ -30,6 +30,7 @@
 3. [gulp 入门指南](https://github.com/nimojs/gulp-book)
 4. [前端构建工具gulp入门教程](https://segmentfault.com/a/1190000000372547)
 5. [Gulp 入門教學 - 壓縮 JavaScript 與 CSS](http://abgne.tw/web/gulp/gulp-tuts-compress-js-css.html)
+6. [gulp-inline](https://github.com/ashaffer/gulp-inline)
 
 ## 自我練習
 
