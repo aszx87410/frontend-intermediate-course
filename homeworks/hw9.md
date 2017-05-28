@@ -21,7 +21,7 @@
 
 ## 作業規範
 
-1. `index.html` 裡面只能引入一個 js 檔案
+1. 同上所述，不能發出任何 CSS 跟 JavaScript 的 Request
 
 ## 學習資源
 
