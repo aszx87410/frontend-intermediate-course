@@ -25,6 +25,7 @@
 ## 作業規範
 
 1. `index.html` 裡面的 js 檔案只能引入一個（也就是 `bundle.js`）
+2. 不能把任何東西附加到`window`上（例如說：`windiw.lang = 'en'`）
 
 ## 附加說明
 在這個作業中，你會需要用到[Node.js](https://nodejs.org/en/)，所以當你覺得這個作業怎麼比較複雜的時候，不用擔心  
