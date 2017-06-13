@@ -68,7 +68,7 @@
 | 6. 返璞歸真：vanilla js  | 5/23  | [hw6](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw6.md) | https://youtu.be/2avbfs4xESw  |
 | 7. 走向國際：i18n  |  5/30 | [hw7](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw7.md) | https://youtu.be/6_d40OSvBBo  |
 | 8. 當我們包在一起：Webpack  |  6/6 | [hw8](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw8.md) | https://youtu.be/nOXU5QZ_ViI / https://youtu.be/fmvIvQaX3nc  |
-| 9. 節省 Request 的極致：一為全，全為一  | 6/13  | [hw9](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw9.md) |   |
+| 9. 節省 Request 的極致：一為全，全為一  | 6/13  | [hw9](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw9.md) | https://youtu.be/GbIQK_Sme0A  |
 | 10. 改掉你的壞習慣：ESLint 與 standard  | 6/20  | [hw10](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw10.md) |   |
 
 ## 如何交作業
