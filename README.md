@@ -13,6 +13,21 @@
 
 如果你對這課程背後的故事有興趣，可以參考：[一場三十人的免費程式教學實驗：成果與檢討](http://huli.logdown.com/posts/1913623-frontend-tutorial-experiment)
 
+若是你做作業碰到問題想要參考其他同學的，可以在這邊找到所有那時候上課的同學交的作業：[交作業一覽表](https://github.com/aszx87410/frontend-intermediate-course/issues?q=is%3Aissue+is%3Aclosed)。
+
+寫完作業之後想要參考其他人的答案的話，可以看看已經完成這堂課的同學們的 GitHub：
+
+1. https://github.com/clingoram/frontend-intermediate-course/tree/master/answers
+2. https://github.com/gogogohuang/frontend-intermediate-course/tree/master/answers
+3. https://github.com/miau715/frontend-intermediate-course/tree/master/answers
+4. https://github.com/zack1030/frontend-intermediate-course/tree/master/answers
+5. https://github.com/lucreciaLin/frontend-intermediate-course/tree/master/answers
+6. https://github.com/DezChuang/frontend-intermediate-course/tree/master/answers
+7. https://github.com/pychiang/frontend-intermediate-course/tree/master/answers
+8. https://github.com/yuanyu90221/frontend-intermediate-course/tree/master/answers
+
+雖然這個課程已經結束，但如果你修了之後有些心得或是想跟大家分享你的成果，也歡迎開一個 Issue 或是寄信通知我。
+
 ## 這是什麼
 
 這是一系列循序漸進的課程，從最基本的 HTML, CSS 開始，經由各種實際案例慢慢講到與前端有關的其他知識例如 Ajax, CORS, gulp, webpack 等等。
