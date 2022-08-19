@@ -32,6 +32,7 @@
 6. [CSS Tricks: filter](https://css-tricks.com/almanac/properties/f/filter/)
 7. [CSS3 box-shadow Property](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
 8. [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+9. [CSS Animation](https://www.scaler.com/topics/css/animation-css/)
 
 ## 自我練習
 
