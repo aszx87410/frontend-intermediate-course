@@ -41,6 +41,7 @@
 
 1. [Check if a user has scrolled to the bottom](http://stackoverflow.com/questions/3898130/check-if-a-user-has-scrolled-to-the-bottom)
 2. [onload Event](https://www.w3schools.com/jsref/event_onload.asp)
+3. [JavaScript Events](https://www.scaler.com/topics/javascript/javascript-events/)
 
 
 ## 自我練習
